@@ -24,8 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./E-commerce - 127.0.0.1.png)
-
+<img src="images/E-commerce-127.0.0.1.png" width="400" height="200" > 
 ### Links
 
 - [Live Site URL](https://officialsammy2701.github.io/E-Commerce/)
