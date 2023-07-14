@@ -27,7 +27,7 @@ Users should be able to:
 <img src="images/Screenshot.png" width="60%"> 
 ### Links
 
-- [Live Site URL](https://officialsammy2701.github.io/E-Commerce/)
+- [Live Site URL](https://github.com/Officialsammy2701/E-Commerce.git))
 
 ## My process
 
